@@ -8,10 +8,10 @@ First of all run:
 
 ### `yarn install`
 
-It will install all the necessary packages neede for the app to run.\
+It will install all the necessary packages needed for the app to run.\
 After that run the following command on terminal before starting application:
 
-#### <b>`mv force-graph.module.js ./node_modules/force-graph/dist/` </b>
+##### <b>`mv force-graph.module.js ./node_modules/force-graph/dist/` </b>
 
 Then run the following to start the application:
 
