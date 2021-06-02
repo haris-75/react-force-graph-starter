@@ -1,0 +1,50 @@
+[
+  {
+    "startPosition": 2373,
+    "endPosition": 2397,
+    "text": "gary@outlook.com",
+    "regexName": "Email"
+  },
+  {
+    "startPosition": 2373,
+    "endPosition": 2397,
+    "text": "m-zeeshanali@outlook.com",
+    "regexName": "Email"
+  },
+  {
+    "startPosition": 2373,
+    "endPosition": 2397,
+    "text": "aslam@outlook.com",
+    "regexName": "Email"
+  },
+  {
+    "startPosition": 2373,
+    "endPosition": 2397,
+    "text": "bashir@outlook.com",
+    "regexName": "Email"
+  },
+  {
+    "startPosition": 2373,
+    "endPosition": 2397,
+    "text": "kevin@outlook.com",
+    "regexName": "Email"
+  },
+  {
+    "startPosition": 2398,
+    "endPosition": 2409,
+    "text": "03029167577",
+    "regexName": "Phone"
+  },
+  {
+    "startPosition": 1820,
+    "endPosition": 2397,
+    "text": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC/0czFpVviIU1InMdwSw0gbFu8/9qD5/MPReI5f+NJPCctxo4pln/4wctvNKus+ts7eijyRLZt56OzJtKq5pAz1GoZBjye2rLutsijPFaU/7TmPsLNPmWIFKa7jmC1XSGJgt/hL3OszrOvUs3IjgCSbRnxJ9nQsL3X8N/Ciq7dGHqf9ZcK/H+BRMw0Ln70viVHwscYwIOpVFEmeCuU7GjS9D/s7gNqdsr5oghi/xLKoCUvF52lDimZZWtD3B5qizkAy6N8Sgnv7zKJvCQ3wdBCrbRE2p8t+1ecYjXZf+1M05omgztQsgtOugGfGlFxXvEu+U6ScVIB1KR4RI24IT0EJX9EXPi/Tv0eU9lDzcke+qnoffXeQOAahAlrcYzIcye5/GLDy8pwy0nv33AtUWFd/I6nbSRUkKIF/5/+SN40vG3q1Wi8zJFvwVtkzJV8GWHoY9hxhmn4L+b4c+DIz6Thobt8BN4+G5QLT/wgJhS4YSs0jjdbFlXebLtRK7COXBs= alex@outlook.com",
+    "regexName": "SSH-RSA"
+  },
+  {
+    "startPosition": 2410,
+    "endPosition": 2421,
+    "text": "123-75-7896",
+    "regexName": "SSN"
+  }
+]
