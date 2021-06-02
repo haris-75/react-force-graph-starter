@@ -11,7 +11,7 @@ First of all run:
 It will install all the necessary packages needed for the app to run.\
 After that run the following command on terminal before starting application:
 
-<b>`mv force-graph.module.js ./node_modules/force-graph/dist/` </b>
+`mv force-graph.module.js ./node_modules/force-graph/dist/`
 
 Then run the following to start the application:
 
